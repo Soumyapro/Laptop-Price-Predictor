@@ -1,6 +1,6 @@
 # 💻 Laptop Price Predictor
 
-!(https://img.freepik.com/free-photo/woman-checking-out-free-design-resources-website_53876-138963.jpg?t=st=1743318618~exp=1743322218~hmac=c5fb2afaf736acf1e416160c7cda14c1b68f3535c51945fc8e8b29c00c999bfd&w=826)
+[Laptop Price]!(https://img.freepik.com/free-photo/woman-checking-out-free-design-resources-website_53876-138963.jpg?t=st=1743318618~exp=1743322218~hmac=c5fb2afaf736acf1e416160c7cda14c1b68f3535c51945fc8e8b29c00c999bfd&w=826)
 
 A machine learning project that predicts laptop prices based on their specifications using various regression models. This end-to-end pipeline includes data preprocessing, feature engineering, model training, evaluation, and visualization.
 
